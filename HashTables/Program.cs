@@ -23,7 +23,7 @@ namespace HashTables
             hash.Add("7", "themselves");
             hash.Add("8", "deliberately");
             hash.Add("9", "into");
-            hash.Add("10", "avoidable situations");
+            hash.Add("10", "situations");
 
             Console.WriteLine( );
             string hash0 = hash.Get("0");
